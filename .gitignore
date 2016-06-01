@@ -1,0 +1,4 @@
+.build/
+bin/
+bin/**/*.iso
+isofiles/boot/kernel.bin

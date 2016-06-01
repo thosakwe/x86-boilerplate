@@ -1,0 +1,1 @@
+nasm -felf32 src/boot.asm -o boot.o
